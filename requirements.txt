@@ -1,0 +1,10 @@
+transformers==2.5.0
+datasets
+soundfile
+torch
+streamlit
+dotenv
+BytesIO
+PIL
+base64
+openai
